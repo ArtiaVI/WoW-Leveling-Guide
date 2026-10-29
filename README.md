@@ -110,7 +110,6 @@ Clean up the out-of-order final sleeping bag step and use your new 3% stacking g
 * **Dungeon 5: Blackfathom Deeps (BFD) — Levels 22-24**
   * **THE BUFFER ROUTINE:** Right outside the BFD cavern entrance on the beach, have **one player** deploy their Cozy Sleeping Bag. Have all 5 members sit inside the bag together for **3 consecutive minutes**.
   * **⚔️ THE PAYOFF:** Your entire party now carries a **3-stack (+3%) active experience buff** lasting for 2 hours. Storm down into the instance portal, clear all 7 bosses, and maximize your elite-kill XP returns!
-
 ---
 
 ## 🚀 Phase VI: The Post-BFD Dungeon Cleave & Quest Meta (Levels 24-40)
@@ -135,3 +134,171 @@ Shift into a "Melee/Spell Cleave" routine. Completely bypass open-world congesti
 ## 🌋 Phase VII: The Mid-Game Convergence (Levels 40-50)
 
 ### ⛳ Objectives
+Transition out of Lordaeron back to Kalimdor and the deep deserts to farm the most lucrative mid-game instances in the game.
+
+* **Levels 40-45: The Tanaris Sandbox & Zul'Farrak**
+  * **The Zone Payload:** Take the boat from Ratchet to Booty Bay, grab the FP, then fly to Thousand Needles and run southeast into Tanaris. Grab the **Gadgetzan FP**. 
+  * **The Dungeon Focus: Zul'Farrak (ZF):** The iconic ZF "Zombie Staircase Event" provides the single highest XP-per-minute burst in the entire 1-60 leveling bracket. Spam this instance repeatedly.
+* **Levels 45-50: Maraudon & The Hinterlands**
+  * **The Zone Payload:** Fly to **The Hinterlands (Revantusk Village FP)**. Clean out the entire elite coast troll camp area as a 5-man squad for enormous item upgrades and raw experience.
+  * **The Dungeon Focus: Maraudon:** Travel to Desolace (**Ghost Walker Post FP**). Run full clears of Maraudon (Purple, Orange, and Pristine Waters). Assemble the scepter chain to fast-forward your farm runs.
+
+---
+
+## 🏰 Phase VIII: The Endgame Dungeon Gauntlet (Levels 50-60)
+
+### ⛳ Objectives
+Abandon standard questing entirely. Plant your group inside Blackrock Mountain and the Western/Eastern Plaguelands to farm your pre-raid Best-in-Slot (BiS) gear while pushing the final ten levels.
+
+* **Levels 50-54: Sunken Temple & Searing Gorge**
+  * **The Base Setup:** Fly to **Kargath (Badlands FP)**. This is your permanent staging hub.
+  * **The Dungeon Focus: Temple of Atal'Hakkar (Sunken Temple):** Head to the Swamp of Sorrows. Ensure everyone grabs their Level 50 Class Quests from their respective trainers, which terminate directly inside Sunken Temple. Clear the dragon halls until level 54.
+* **Levels 54-58: Blackrock Depths (BRD) Attunements**
+  * **The Dungeon Focus: Blackrock Depths (BRD):** Move into Blackrock Mountain. Assemble your **Molten Core Raid Attunements** and farm your level 55-60 pre-raid baseline gear blueprints here.
+* **Levels 58-60: The Plaguelands Sweep & Max Level**
+  * **The Dungeon Focus: Scholomance & Stratholme:** Leave Kargath and fly north to the Eastern Plaguelands (**Light's Hope Chapel FP**). 
+  * Alternate back-and-back locks between **Scholomance** (Caer Darrow) and **Stratholme Live/Dead Sides** (Plaguelands). The elite undead mobs provide massive base XP, high-value gold drops, and finish your progression straight to Level 60.
+
+---
+
+## 🛠️ TomTom Macro & Coordinate Strings
+
+Ensure everyone in your 5-man group has the **TomTom** addon installed. Because standard World of Warcraft macros are restricted to a **255-character limit**, the navigation network has been split into three optimized, copy-pasteable macro blocks.
+
+### 📍 Macro 1: Kalimdor Checkpoints & FPs
+```mac
+/way The Barrens 62.1 37.2 Crossroads FP
+/way The Barrens 44.4 59.2 Camp Taurajo FP
+/way The Barrens 46.1 74.3 STEP 1: Burned Ruins
+/way Stonetalon Mountains 50.9 52.3 STEP 3: Path Start
+/way Stonetalon Mountains 40.6 52.4 STEP 3: Old Toolbox
+/way Stonetalon Mountains 39.6 49.8 STEP 3: Dirt Mound
+```
+
+### 📍 Macro 2: Eastern Kingdoms Checkpoints & FPs
+```mac
+/way Tirisfal Glades 60.8 52.6 Undercity FP / RoL Entrance
+/way Silverpine Forest 43.1 41.5 The Sepulcher FP / SFK Quests
+/way Hillsbrad Foothills 61.5 19.2 Tarren Mill FP (SET HEARTH)
+/way Arathi Highlands 73.4 32.7 Hammerfall FP
+/way Loch Modan 49.4 12.9 STEP 4: Dam Eagle Figurine
+/way Hillsbrad Foothills 87.3 49.6 STEP 5: Thoradin Wall Bag
+/way Westfall 37.1 50.1 STEP 2: Alexston Farmstead
+```
+
+### 📍 Macro 3: Blackfathom Deeps (BFD) Campaign
+```mac
+/way Ashenvale 12.2 12.4 Zoram'gar Outpost FP & BFD Quests
+/way Ashenvale 14.1 14.4 BFD Beach Cave Entrance (Drop Sleeping Bag Here!)
+```
+---
+
+## 📜 Master Dungeon Quest Acquisition Guide & Macros
+
+To achieve maximum leveling velocity, your 5-man party must always ensure they pick up every dungeon quest *before* stepping inside an instance. Below are the exact macro blocks to target and map out your quest collection routines.
+
+### 📍 Ragefire Chasm (RFC) — Quest Pickups
+```mac
+/way Orgrimmar 32.0 37.8 Thrall (Hidden Enemies)
+/way Orgrimmar 49.6 50.4 Neeru Fireblade (Slaying the Beast)
+/way Thunder Bluff 70.6 31.6 Rahauro (Enemy Strength & Lost Satchel)
+/way Undercity 56.2 92.6 Varimathras (The Power to Destroy...)
+```
+
+### 📍 Wailing Caverns (WC) — Quest Pickups
+```mac
+/way The Barrens 62.2 36.4 Cavern Above WC Entrance (Nalpak & Ebru)
+/way Ratchet 62.7 37.5 Mebok Mizzyrix (Smart Drinks)
+/way Ratchet 63.1 37.1 Crane Operator Bigglefuzz (Trouble at Docks)
+/way Thunder Bluff 76.0 27.2 Nara Wildmane (Leaders of the Fang)
+/way Thunder Bluff 34.2 30.6 Apothecary Zamah (Serpentbloom)
+```
+
+### 📍 Ruins of Lordaeron (RoL) — Quest Pickups
+```mac
+/way Tirisfal Glades 60.8 52.6 Lordaeron Courtyard Hub Quests
+/way Tirisfal Glades 61.1 52.1 Brill Innkeeper / Deathguard
+```
+
+### 📍 Shadowfang Keep (SFK) — Quest Pickups
+```mac
+/way Undercity 56.4 71.4 Keeper Bel'dugur (The Book of Ur)
+/way Silverpine Forest 43.1 41.5 High Executor Hadrec (Arugal Must Die)
+```
+
+### 📍 Blackfathom Deeps (BFD) — Quest Pickups
+```mac
+/way Stonetalon Mountains 60.1 63.0 Tsumah (Trouble in the Deeps Prep)
+/way Ashenvale 12.2 12.4 Je'neu Sancrea (Main BFD Quests Hub)
+/way Thunder Bluff 75.8 24.6 Dawnstrider (Blackfathom Villainy)
+```
+
+### 📍 Razorfen Kraul (RFK) — Quest Pickups
+```mac
+/way Thousand Needles 21.4 18.2 Falfind Sizzleswitch (Lonelark)
+/way Thunder Bluff 76.2 24.8 Aethellsteid (Avenge My Village)
+/way Orgrimmar 51.2 71.6 Malygen (Blueleaf Tubers Gadget)
+```
+
+### 📍 Scarlet Monastery (SM) — Quest Pickups
+```mac
+/way Undercity 56.2 92.6 Varimathras (Into the Scarlet Monastery)
+/way Undercity 78.4 34.6 Apothecary Faranell (Hearts of Zeal)
+/way Thunder Bluff 34.4 28.2 Sage Truthseeker (Test of Lore Chain)
+```
+
+### 📍 Zul'Farrak (ZF) — Quest Pickups
+```mac
+/way Tanaris 51.4 28.6 Chief Engineer Bilgizzle (Gahz'rilla)
+/way Tanaris 52.6 27.2 Tran'rek (Scarab Shells)
+/way The Hinterlands 78.2 81.4 Primal Torntusk (Troll Temper)
+/way Orgrimmar 75.2 34.6 Yeh'kinya (The Prophecy of Mosh'aru)
+```
+
+### 📍 Maraudon — Quest Pickups
+```mac
+/way Orgrimmar 56.8 54.2 Uthetek (Shadowshard Fragments)
+/way Desolace 24.2 69.4 Centaur Outpost (Pariah's Instructions)
+```
+
+### 📍 Sunken Temple (ST) — Quest Pickups
+```mac
+/way Swamp of Sorrows 47.2 56.6 Exile Careven (The Jammal'an Bounty)
+/way Tanaris 53.0 46.0 Stone Circle (The Sunken Temple Chain)
+```
+
+### 📍 Blackrock Depths (BRD) — Quest Pickups
+```mac
+/way Badlands 4.2 46.2 Warlord Goretooth (Kargath Command Post Hub)
+/way Burning Steppes 65.2 24.0 Overlord Mok'Morokk (Attunement Assist)
+```
+
+### 📍 Scholomance & Stratholme — Endgame Pickups
+```mac
+/way Eastern Plaguelands 81.4 59.2 Light's Hope Chapel (Stratholme Bounties)
+/way Western Plaguelands 83.4 68.2 Caer Darrow Ghost (Scholomance Key Chain)
+/way Tirisfal Glades 83.2 71.4 The Bulwark Horde Post (The Plagued Lands)
+```
+
+---
+
+## 📊 Master Campaign Reference Table
+
+| Bracket | Cleave Dungeon Target | Primary Quest Hub | Min Lvl | Most Notable Quest Reward / Milestone |
+| :--- | :--- | :--- | :--- | :--- |
+| **1-12** | *None* | Durotar (Razor Hill) | 1 | Orgrimmar Flight Path Hub Assembly |
+| **12-15**| *None* | Barrens (Crossroads) | 12 | **Sleeping Bag Step 1** (Camp Taurajo Ruins) |
+| **15-16**| **Ragefire Chasm (RFC)** | Orgrimmar | 15 | Class Weapon Options (Axe of Orgrimmar) |
+| **16-18**| **Wailing Caverns (WC)** | Thunder Bluff / Ratchet| 15 | Crescent Staff / Wingblade |
+| **18-20**| **Ruins of Lordaeron (RoL)** | Undercity Courtyard | 15 | Unique *WoW Forever* Level-Up Gear Cache |
+| **20-21**| **Shadowfang Keep (SFK)** | Sepulcher / Undercity | 16 | Seal of Sylvanas (Rare Quality Blue Ring) |
+| **21-22**| *Sleeping Bag Trek* | Stonetalon / Loch Modan | 20 | **Cozy Sleeping Bag & 5x Student Fodder** |
+| **22-24**| **Blackfathom Deeps (BFD)**| Zoram'gar Outpost | 17 | Band of the Fist / Outlaw Sabre |
+| **24-29**| **Razorfen Kraul (RFK)** | Thousand Needles | 24 | Shimmering Flats Speedway Quest Mass-Turn-In |
+| **29-40**| **Scarlet Monastery (SM)** | Undercity | 28 | Sword of Omen / Illusionary Rod / Lvl 40 Mounts |
+| **40-45**| **Zul'Farrak (ZF)** | Gadgetzan (Tanaris) | 40 | Carrot on a Stick / Zombie Staircase XP Burst |
+| **45-50**| **Maraudon** | Desolace / Orgrimmar | 45 | Resurgence Rod / Maraudon Teleport Scepter |
+| **50-54**| **Sunken Temple (ST)** | Swamp of Sorrows | 50 | Epic Class Trinkets / Diamond Flask Trinket |
+| **54-58**| **Blackrock Depths (BRD)** | Kargath (Badlands) | 52 | Molten Core Raid Attunement Progress |
+| **58-60**| **Stratholme / Scholomance**| Light's Hope Chapel | 56 | Argent Avenger / Final push to Level 60 Max |
+
